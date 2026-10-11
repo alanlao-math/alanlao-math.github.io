@@ -2,14 +2,14 @@
 yaml
 
 ---
-title: '(Alan) Hin Lon Lao'
+title: (Alan) Hin Lon Lao
 
 authors: 
    -admin 
 
-role: "Mathematician / Scholar" 
+role: Mathematician / Scholar
 
-bio: "A combintorist working on matroid theory and geometric lattice theory." 
+bio: A combintorist working on matroid theory and geometric lattice theory.
 ---
 I finshed my B.Sc. at University of utah and M.Sc. at National Cheng Kung University before i obtained my PhD under the supervision of [Dr. Nantel Bergeron](https://bergeron.mathstats.yorku.ca/) at York University. 
 
