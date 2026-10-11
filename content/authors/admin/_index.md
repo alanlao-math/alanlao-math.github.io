@@ -4,7 +4,8 @@ yaml
 
 title: "(Alan) Hin Lon Lao"
 
-username: admin 
+authors: 
+   -admin 
 
 role: "Mathematician / Scholar" 
 
