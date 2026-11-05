@@ -33,6 +33,21 @@ sections:
 
   - block: markdown
     content:
+      title: 'Resume'
+      subtitle: ''
+      text: |-
+        <div class="not-prose mb-4">
+          <a href="/uploads/resume.pdf" target="_blank" rel="noopener" class="inline-flex items-center rounded-md bg-primary-600 px-4 py-2 text-sm font-medium text-white no-underline hover:bg-primary-700">
+            Open full CV / Resume
+          </a>
+        </div>
+
+        <iframe src="/uploads/resume.pdf" title="Alan Hin Lon Lao resume" width="100%" height="900" style="border:0; border-radius:0.75rem; background:#f8fafc;"></iframe>
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
       title: 'Research'
       subtitle: ''
       text: |-
