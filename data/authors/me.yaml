@@ -39,8 +39,8 @@ interests:
 education:
   - degree: PhD Mathematics
     institution: York University
-    start: 2013-09-01
-    end: 2018-06-30
+    start: 
+    end: 2026
     summary: |
       PhD thesis work under the supervision of Dr. Nantel Bergeron.
     button:
@@ -49,12 +49,12 @@ education:
       icon: hero/arrow-down-tray
   - degree: MSc Mathematics
     institution: National Cheng Kung University
-    start: 2010-09-01
-    end: 2012-06-30
+    start: 
+    end: 2015
   - degree: BSc Mathematics
     institution: University of Utah
-    start: 2006-09-01
-    end: 2010-06-30
+    start: 
+    end: 2013
 
 experience:
   - role: Researcher
