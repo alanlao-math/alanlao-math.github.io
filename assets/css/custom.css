@@ -1,5 +1,9 @@
 #about h1,
 #about h2:first-of-type,
-#about p:first-of-type {
+#about p {
   color: #fff;
+}
+
+#about h3 {
+  color: #000;
 }
