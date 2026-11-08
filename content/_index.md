@@ -23,7 +23,7 @@ sections:
     design:
       background:
         image:
-         filename: dcbackground.jpg
+         filename: lakebackground.jpg
          filters:
           brightness: 0.8
 
