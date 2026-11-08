@@ -4,6 +4,7 @@
   color: #fff;
 }
 
-#about h3 {
+#about h3,
+#about h3 ~ * {
   color: #000;
 }
