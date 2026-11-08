@@ -22,9 +22,9 @@ sections:
     design:
       background:
         image:
-         filename: maplebackground.jpg
+         filename: lakebackground.jpg
          filters:
-          brightness: 0.6
+          brightness: 0.7
 
       name:
         size: md
