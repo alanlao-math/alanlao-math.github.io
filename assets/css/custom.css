@@ -1,10 +1,9 @@
 #about h1,
 #about h2:first-of-type,
-#about p {
+#about .bio-text {
   color: #fff;
 }
 
-#about h3,
-#about h3 ~ * {
+#about .group p {
   color: #000;
 }
