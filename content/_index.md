@@ -21,8 +21,10 @@ sections:
         interests: ''
     design:
       background:
-        gradient_mesh:
-          enable: true
+        image:
+         filename: maplebackground.jpg
+         filters:
+          brightness: 0.6
 
       name:
         size: md
