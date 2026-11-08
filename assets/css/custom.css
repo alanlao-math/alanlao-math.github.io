@@ -1,0 +1,5 @@
+#about h1,
+#about h2:first-of-type,
+#about p:first-of-type {
+  color: #fff;
+}
