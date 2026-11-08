@@ -25,7 +25,7 @@ sections:
         image:
          filename: lakebackground.jpg
          filters:
-          brightness: 0.8
+          brightness: 0.9
 
       name:
         size: md
